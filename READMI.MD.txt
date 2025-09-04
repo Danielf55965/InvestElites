@@ -1,0 +1,38 @@
+# InvestiElite
+
+**InvestiElite** é uma plataforma de investimento moderna, segura e transparente, desenvolvida para fornecer aos usuários uma experiência intuitiva e confiável ao gerenciar seus investimentos. O site inclui seções de Sobre, Planos, FAQ, Contato e suporte direto via Telegram e WhatsApp.
+
+## Índice
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Executar](#como-executar)
+- [Contato](#contato)
+- [Licença](#licença)
+
+## Descrição
+InvestiElite é um site voltado para investidores que desejam uma plataforma simples e confiável. Ele inclui:
+- Navegação clara entre seções: Sobre, Planos, FAQ e Contato.
+- Botões de suporte para Telegram e WhatsApp com ícones interativos.
+- Layout moderno e responsivo, adaptável a desktop e dispositivos móveis.
+- Chamadas para ação estratégicas, incentivando o usuário a começar a investir.
+
+## Funcionalidades
+- Seções de informação detalhadas sobre planos de investimento.
+- FAQ para responder dúvidas comuns.
+- Formulário de contato (pode ser integrado a serviços como EmailJS ou backend próprio).
+- Botões de suporte via **Telegram** e **WhatsApp**.
+- Design responsivo com **TailwindCSS**.
+- Footer com direitos autorais.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3 (via TailwindCSS)
+- JavaScript (opcional para funcionalidades adicionais)
+- SVG para ícones interativos
+- Responsividade com TailwindCSS
+
+## Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/investielite.git
